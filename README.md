@@ -1,5 +1,5 @@
 # introduction-machine-learning-with-python
- Learning note for Introduction Machine Learning with Python
+ Learning note for Introduction Machine Learning with Python by Andreas C. Muller and Sarah Guido
  
  ## Contents:
  
